@@ -1,3 +1,5 @@
 <resources>
-  <string name="maintainer_string">Trishiraj, Roxor-007</string>
+    <string name="maintainer_name">H3M3L</string>
+    <string name="maintainer_telegram_username">https://t.me/H3M3L</string>
+    <string name="tenx_processor_summary">Snapdragon 870|kona</string>
 </resources>
